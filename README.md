@@ -1,4 +1,4 @@
-# Web-Automation
+# Web Automation using selenium - python
 Python code is used to download COVID 19 data set from JHU repository automatically
 
 Step1 : Need to install selenium python package and below are the commands.
